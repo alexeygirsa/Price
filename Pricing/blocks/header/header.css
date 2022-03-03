@@ -1,0 +1,30 @@
+.header {
+    margin-top: 71px;
+    margin-bottom: 64px;
+}
+
+.headertext {
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #6E728E;
+    margin-bottom: 40px;
+}
+
+.headertext__light {
+    font-size: 15px;
+    line-height: 28px;
+    color: #6E728E;
+    opacity: 0.5;
+}
+
+.header__subscription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.header__img {
+    display: inline-block;
+}

@@ -1,0 +1,10 @@
+@import url("https://necolas.github.io/normalize.css/8.0.1/normalize.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url("./reset.css");
+@import url("./blocks/header/header.css");
+@import url("./blocks/price/price.css");
+
+body {
+    font-family: Montserrat;
+    background: #F2F2F2;
+}
